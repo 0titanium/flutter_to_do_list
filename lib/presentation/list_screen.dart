@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_to_do_list/data/model/todo.dart';
 import 'package:flutter_to_do_list/main.dart';
 import 'package:flutter_to_do_list/presentation/create_screen.dart';
 
